@@ -1,0 +1,16 @@
+body {
+  background-image: url("../assets//bg_stars.gif");
+}
+
+.navigation {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.navigation__logo-main {
+  margin: 20px;
+  height: 165px;
+  width: 272px;
+}
